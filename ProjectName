@@ -9,8 +9,8 @@
     {
       "title": "Configure Tool",
       "repo": "ResearchAssistant",
-      "branch": "main",
-      "file": "docs/configure-tool.md"
+      "branch": "multiple_tools",
+      "file": "ENHANCEMENTS.md"
     }
   ]
 }
