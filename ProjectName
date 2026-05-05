@@ -7,7 +7,7 @@
       "file": "subtopics/configure-agent/README.md"
     },
     {
-      "title": "Configure Tool",
+      "title": "Configure Tools",
       "repo": "ResearchAssistant",
       "branch": "multiple_tools",
       "file": "ENHANCEMENTS.md"
