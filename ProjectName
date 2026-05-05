@@ -1,9 +1,16 @@
-Learn to create Research agent
-  Subtopics 
-        Confiure Agent
-        Configure Tool
-
-RAG Based System
-  Subtopics 
-        Chunks
-        Retrieval 
+{
+  "lessons": [
+    {
+      "title": "Configure Agent",
+      "repo": "WebsiteProject",
+      "branch": "main",
+      "file": "subtopics/configure-agent/README.md"
+    },
+    {
+      "title": "Configure Tool",
+      "repo": "ResearchAssistant",
+      "branch": "main",
+      "file": "docs/configure-tool.md"
+    }
+  ]
+}
